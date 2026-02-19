@@ -9,7 +9,7 @@ QA Engineer (Junior) focused on structured testing, defect management and perfor
 🔎 **No Country Simulation – WebAppDevelopment Project**  
 Role: QA Engineer (Team S02-26)
 
-Main responsibilities:
+### Main Responsibilities
 - Reviewing requirements and user stories
 - Formalizing Definition of Done (DoD)
 - Improving QA documentation in README
@@ -33,7 +33,7 @@ Main responsibilities:
 
 ## 📂 Featured Project
 
-📌 QA Portfolio – UTN Advanced Testing  
+📌 **QA Portfolio – UTN Advanced Testing**  
 Master Test Plan | Test Cases | Defect Reporting | Performance Analysis  
 
 ---
@@ -50,4 +50,5 @@ Master Test Plan | Test Cases | Defect Reporting | Performance Analysis
 
 ## 📫 Contact
 
-LinkedIn: https://www.linkedin.com/in/alberto-alejandro-pedraza/
+🔗 LinkedIn:  
+https://www.linkedin.com/in/alberto-alejandro-pedraza/
