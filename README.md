@@ -1,128 +1,63 @@
-# QA Portfolio – E-commerce Testing (UTN Advanced Testing Project)
+# 👋 Hello, I'm Alberto Alejandro Pedraza
 
-This repository showcases a structured QA process applied to a real e-commerce application, including planning, execution, defect management and performance validation.
+💻 QA Tester | Manual Testing | API Testing | Bug Reporting
 
----
-
-## 📌 Project Overview
-
-**Application Under Test:** https://www.demoblaze.com/  
-**Project Type:** E-commerce Web Application  
-**Testing Approach:** Manual Functional Testing + Performance & Accessibility Analysis  
-
-This project involved the creation and execution of a formal Master Test Plan (MTP), manual test case design, defect reporting, and performance auditing.
+I am focused on software quality, functional validation and defect detection.  
+Currently building my QA portfolio with real testing projects and professional simulations.
 
 ---
 
-## 📄 Scope of Testing
+## 🧪 QA Skills
 
-### 🛒 User Story 1 – Product Listing Validation
-
-Validated acceptance criteria:
-- Application language must be English
-- Prices must be displayed in pesos
-- No product price should exceed 1000 pesos
-- Text color must be black
-- Only products with stock should be displayed
-
-### 📦 User Story 2 – Product Detail Validation
-
-Validated acceptance criteria:
-- Product name, price, image and description displayed
-- Final price must include taxes
-- Each product must have at least two images
-- Response time must not exceed 200 ms
-
----
-
-## 🧪 Testing Activities Performed
-
-✔ Requirements loaded into TestLink  
-✔ 9 manual test cases designed and executed  
-✔ 100% test execution rate achieved  
-✔ 1 functional defect reported in MantisBT  
-✔ Performance validation using Chrome DevTools (Network tab)  
-✔ Lighthouse audit for Performance & Accessibility  
-
----
-
-## 🐞 Defect Identified
-
-**Issue:** Products exceeding the defined 1000 pesos price limit  
-**Severity:** High  
-**Tool Used:** MantisBT  
-
----
-
-## ⚡ Performance & Accessibility Findings
-
-- Average observed response time: **210 ms**
-- Performance improvement opportunities detected
-- Missing ALT attributes in images
-- Accessibility issues in links
-- High Best Practices score in Lighthouse
-
----
-
-## 📸 Testing Evidence
-
-### 🐞 Defect Report (MantisBT)
-![Mantis Defect](./evidence/mantis-defect.png)
-
----
-
-### ⚡ Lighthouse Audit
-![Lighthouse Audit](./evidence/lighthouse-audit.png)
-
----
-
-### 🌐 Network Analysis (Chrome DevTools)
-![Network Analysis](./evidence/network-response.png)
-
----
-
-## 🛠 Tools & Technologies
-
-- TestLink
-- MantisBT
-- Chrome DevTools
-- Lighthouse
 - Manual Testing
-- Acceptance Criteria Validation
+- API Testing (Postman)
+- Test Case Design
+- Bug Reporting
+- Test Documentation
+- Git / GitHub workflow
 
 ---
 
-## 📊 Key Results
+## 📂 QA Portfolio
 
-- 9 Test Cases Designed
-- 1 Functional Defect Detected
-- 210 ms Average Response Time Measured
-- 2 User Stories Fully Validated
-- Formal Master Test Plan Developed
+🔹 QA Testing Portfolio  
+https://github.com/webale65/qa-portfolio
+
+This portfolio includes:
+
+- Test Cases
+- Bug Reports
+- Testing Evidence
+- QA Documentation
+- Simulation project experience
 
 ---
 
-## 🎯 Skills Demonstrated
+## 🚀 Professional Experience Simulation
 
-- Master Test Plan creation
-- Requirements analysis
-- Acceptance criteria validation
-- Manual test case design
+QA Tester – No Country Tech Simulation
+
+Activities performed:
+
 - Functional testing
-- GUI testing
-- Performance validation
-- Defect lifecycle management
-- Structured QA documentation
+- API validation
+- Bug reporting through GitHub Issues
+- Feature validation
+- Collaboration with development team using GitFlow
 
 ---
 
-## 👤 Author
+## 🛠 Tools
 
-**Alberto Alejandro Pedraza**  
-QA Engineer (Junior)
+- Postman
+- GitHub
+- Swagger
+- Chrome DevTools
+- Excel
+
 ---
 
 ## 📫 Contact
 
-🔗 LinkedIn:
-https://www.linkedin.com/in/alberto-alejandro-pedraza/
+LinkedIn  
+https://www.linkedin.com/in/alberto-alejandro-pedraza
