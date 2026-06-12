@@ -1,10 +1,21 @@
 # 👋 Hola, soy Alberto Alejandro Pedraza
 
-## 💻 QA Tester | Testing Manual | Testing de APIs | Ciberseguridad | Calidad de Software
+## 💻 QA Tester | Manual Testing | API Testing | Ciberseguridad | Calidad de Software
 
-Soy QA Tester enfocado en la validación funcional, detección de defectos, documentación de pruebas y mejora continua de la calidad del software.
+![QA Tester](https://img.shields.io/badge/Role-QA%20Tester-blue)
+![Manual Testing](https://img.shields.io/badge/Testing-Manual%20Testing-green)
+![API Testing](https://img.shields.io/badge/API-Testing-orange)
+![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Workflow-black)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-Security-blueviolet)
+![OWASP](https://img.shields.io/badge/OWASP-Security-red)
+![Information Security](https://img.shields.io/badge/Information-Security-darkgreen)
 
-Actualmente construyo mi portfolio profesional a través de proyectos académicos, simulaciones laborales, documentación QA y experiencias colaborativas de desarrollo de software.
+Soy QA Tester enfocado en la validación funcional, detección de defectos, testing de APIs y mejora continua de la calidad del software.
+
+Actualmente construyo mi portfolio profesional mediante proyectos académicos, simulaciones laborales, documentación QA y experiencias colaborativas de desarrollo de software.
+
+Complemento mi perfil con formación en Seguridad de la Información y Redes, incorporando conceptos de gestión de riesgos, protección de datos, OWASP y buenas prácticas de seguridad aplicadas al ciclo de vida del software.
 
 ---
 
@@ -30,7 +41,7 @@ Actualmente construyo mi portfolio profesional a través de proyectos académico
 
 **Certificado en Seguridad de la Información y Redes**
 
-Emitido por **Córdoba Crea Futuro**.
+Emitido por **Córdoba Crea Futuro**
 
 **Duración:** 5 meses
 
@@ -99,13 +110,14 @@ Repositorio:
 
 Incluye:
 
-* Test Cases
-* Bug Reports
+* Casos de Prueba
+* Reportes de Bugs
 * Evidencias de Testing
 * Matriz de Trazabilidad
-* Documentación QA
+* Informe Final QA
+* Validación de APIs
 
-Basado en simulaciones reales de pruebas funcionales y validación de software.
+Proyecto desarrollado durante la simulación profesional de No Country para RiderFit (FitBot).
 
 ---
 
@@ -128,7 +140,27 @@ Incluye:
 
 ---
 
-## 🔹 Mighty Ducks Hockey League
+## 🔹 QA Portfolio – Testing Avanzado (UTN)
+
+Repositorio:
+
+👉 https://github.com/webale65/qa-academic-projects
+
+Proyecto académico desarrollado en la Universidad Tecnológica Nacional (UTN) dentro del programa Argentina Programa 4.0.
+
+Incluye:
+
+* Master Test Plan (MTP)
+* Casos de Prueba
+* Reportes de Defectos
+* Auditoría de Rendimiento
+* TestLink
+* MantisBT
+* Lighthouse
+
+---
+
+## 🔹 Mighty Ducks Hockey League (MDHL)
 
 Repositorio:
 
@@ -143,16 +175,6 @@ Proyecto académico Front-End desarrollado con:
 * GitHub
 * GitHub Pages
 * Versionado y publicación de proyectos web
-
----
-
-## 🔹 Academic QA Projects
-
-Repositorio:
-
-👉 https://github.com/webale65/qa-academic-projects
-
-Colección de proyectos académicos, prácticas y documentación relacionada con formación en QA y testing de software.
 
 ---
 
@@ -177,15 +199,17 @@ Participación en equipos multidisciplinarios aplicando metodologías ágiles y 
 
 # 🎯 Objetivo Profesional
 
-Desarrollarme profesionalmente como QA Tester participando en proyectos de calidad de software, testing funcional y testing de APIs, contribuyendo a la entrega de productos confiables, seguros y orientados a las necesidades del usuario.
+Desarrollarme profesionalmente como QA Tester participando en proyectos de calidad de software, testing funcional, testing de APIs y procesos de mejora continua, contribuyendo a la entrega de productos confiables, seguros y orientados a las necesidades del usuario.
 
 ---
 
 # 📫 Contacto
 
-🔗 LinkedIn
-
+🔗 LinkedIn  
 https://www.linkedin.com/in/alberto-alejandro-pedraza
+
+💻 GitHub  
+https://github.com/webale65
 
 📍 Argentina
 
